@@ -80,4 +80,3 @@ object 实验八实训一 {
 
   }
 }
-println c杜国强是猪猪
